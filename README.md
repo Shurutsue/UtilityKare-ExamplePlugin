@@ -1,0 +1,2 @@
+# UtilityKare-ExamplePlugin
+ Example Plugin
