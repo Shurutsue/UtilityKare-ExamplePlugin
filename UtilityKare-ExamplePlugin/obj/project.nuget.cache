@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4zUXvLexKOH52AnorNNmI4lFpXKJBjOc4PfWQEhHV6aMs3oH6usfoLZY6YWwD82emZ7ZtB5R4RihPpQX1JOIw==",
+  "dgSpecHash": "nMRN0Z83HczZPYvxqoy6qymFnukUq2JCFCLmWhmR7O+StEPf0e18OwXKgGKQ8cmFH+0wakLfocWE+yJfu3QA+g==",
   "success": true,
-  "projectFilePath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj",
+  "projectFilePath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare_ExamplePlugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oliver\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\Oliver\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",

@@ -1,4 +1,4 @@
-namespace UtilityKare-ExamplePlugin
+namespace UtilityKare_ExamplePlugin
 {
     public static class PluginInfo
     {

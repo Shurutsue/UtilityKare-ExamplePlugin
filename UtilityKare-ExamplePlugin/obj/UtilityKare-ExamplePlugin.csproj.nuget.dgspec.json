@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj": {}
+    "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj": {}
   },
   "projects": {
-    "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj": {
+    "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj",
+        "projectUniqueName": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj",
         "projectName": "UtilityKare_ExamplePlugin",
-        "projectPath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj",
+        "projectPath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj",
         "packagesPath": "C:\\Users\\Oliver\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\obj\\",
+        "outputPath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

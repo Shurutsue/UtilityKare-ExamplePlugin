@@ -883,11 +883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj",
+      "projectUniqueName": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare_ExamplePlugin.csproj",
       "projectName": "UtilityKare_ExamplePlugin",
-      "projectPath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin.csproj",
+      "projectPath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare_ExamplePlugin.csproj",
       "packagesPath": "C:\\Users\\Oliver\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\obj\\",
+      "outputPath": "G:\\GitHubRepositories\\UtilityKare-ExamplePlugin\\UtilityKare-ExamplePlugin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

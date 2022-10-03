@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityKare-ExamplePlugin", "UtilityKare-ExamplePlugin\UtilityKare-ExamplePlugin.csproj", "{790383B7-E5BC-4889-99A0-8E7753342B2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtilityKare_ExamplePlugin", "UtilityKare-ExamplePlugin\UtilityKare_ExamplePlugin.csproj", "{790383B7-E5BC-4889-99A0-8E7753342B2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
